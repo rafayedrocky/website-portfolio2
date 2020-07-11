@@ -1,0 +1,69 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.color-highlight{
+    color: crimson;
+}
+p{
+    color: dimgray;
+    margin-bottom: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+    
+    
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-weight: 700px;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    margin-bottom: 150px;
+}
+.mark{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.first-width img{
+    width: 30%;
+    float:left;
+
+}
+.style{
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    padding: 50px 50px;
+    height: 170px;
+    margin-left: 290px;
+    margin-right: 290px;
+    border-radius: 15px;
+}   
+
+    
+
+.color{
+    color: white;
+    margin-top: 40px;
+}
+
+footer{
+    text-align: center;
+    font-size: 12px;
+}
